@@ -1,0 +1,814 @@
+[
+ {
+  "n": 1,
+  "group": "中国传统",
+  "name": "工笔重彩",
+  "style": "Chinese gongbi meticulous heavy-color painting on aged silk: fine even ink outlines, flat layered mineral pigments (azurite, malachite, cinnabar), delicate patterned textiles, no Western shading",
+  "prompt": "Style: Chinese gongbi meticulous heavy-color painting on aged silk: fine even ink outlines, flat layered mineral pigments (azurite, malachite, cinnabar), delicate patterned textiles, no Western shading.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 2,
+  "group": "中国传统",
+  "name": "水墨写意",
+  "style": "Chinese xieyi freehand ink wash painting on raw xuan paper: expressive loose brushstrokes, ink bleeding and dry-brush texture, mostly black ink with a few pale color washes, generous empty space, a red seal stamp",
+  "prompt": "Style: Chinese xieyi freehand ink wash painting on raw xuan paper: expressive loose brushstrokes, ink bleeding and dry-brush texture, mostly black ink with a few pale color washes, generous empty space, a red seal stamp.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 3,
+  "group": "中国传统",
+  "name": "白描线稿",
+  "style": "Chinese baimiao pure line drawing: only fine black ink contour lines of varying pressure on off-white paper, no color, no shading, classical figure-painting line quality",
+  "prompt": "Style: Chinese baimiao pure line drawing: only fine black ink contour lines of varying pressure on off-white paper, no color, no shading, classical figure-painting line quality.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 4,
+  "group": "中国传统",
+  "name": "青绿山水",
+  "style": "Chinese blue-green landscape painting style (qinglü): rich azurite blue and malachite green mineral colors, gold outlines, the window framing a miniature blue-green mountain landscape, silk scroll texture",
+  "prompt": "Style: Chinese blue-green landscape painting style (qinglü): rich azurite blue and malachite green mineral colors, gold outlines, the window framing a miniature blue-green mountain landscape, silk scroll texture.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 5,
+  "group": "中国传统",
+  "name": "宋画小品",
+  "style": "Song dynasty album-leaf painting: small round fan-shaped composition, restrained muted colors on aged silk, refined realism, calm poetic atmosphere, soft ink gradations",
+  "prompt": "Style: Song dynasty album-leaf painting: small round fan-shaped composition, restrained muted colors on aged silk, refined realism, calm poetic atmosphere, soft ink gradations.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 6,
+  "group": "中国传统",
+  "name": "界画",
+  "style": "Chinese jiehua ruled-line architectural painting: precise straight ruler-drawn lines of wooden window lattices and beams, isometric-like classical perspective, small detailed figure, ink and light color on silk",
+  "prompt": "Style: Chinese jiehua ruled-line architectural painting: precise straight ruler-drawn lines of wooden window lattices and beams, isometric-like classical perspective, small detailed figure, ink and light color on silk.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 7,
+  "group": "中国传统",
+  "name": "敦煌壁画",
+  "style": "Dunhuang Mogao cave mural painting: earthy ochre, malachite green and faded lapis colors, cracked flaking plaster wall texture, flowing ribbon-like lines, flat decorative halos and floral borders",
+  "prompt": "Style: Dunhuang Mogao cave mural painting: earthy ochre, malachite green and faded lapis colors, cracked flaking plaster wall texture, flowing ribbon-like lines, flat decorative halos and floral borders.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 8,
+  "group": "中国传统",
+  "name": "木版年画",
+  "style": "Chinese woodblock New Year print (Yangliuxue / Taohuawu nianhua): bold black carved outlines, bright flat pink, red, green and yellow, chubby auspicious child figure, festive decorative border, visible paper grain",
+  "prompt": "Style: Chinese woodblock New Year print (Yangliuxue / Taohuawu nianhua): bold black carved outlines, bright flat pink, red, green and yellow, chubby auspicious child figure, festive decorative border, visible paper grain.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 9,
+  "group": "中国传统",
+  "name": "剪纸",
+  "style": "Chinese red paper-cut art: the entire scene cut from a single sheet of red paper, intricate hollow cutout patterns, symmetrical decorative motifs, placed on a plain white background, crisp paper edges",
+  "prompt": "Style: Chinese red paper-cut art: the entire scene cut from a single sheet of red paper, intricate hollow cutout patterns, symmetrical decorative motifs, placed on a plain white background, crisp paper edges.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 10,
+  "group": "中国传统",
+  "name": "皮影",
+  "style": "Chinese shadow puppetry (piying): translucent colored leather puppet figures with jointed limbs and perforated patterns, backlit on a glowing warm screen, visible rods holding the figures",
+  "prompt": "Style: Chinese shadow puppetry (piying): translucent colored leather puppet figures with jointed limbs and perforated patterns, backlit on a glowing warm screen, visible rods holding the figures.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 11,
+  "group": "中国传统",
+  "name": "连环画",
+  "style": "Chinese lianhuanhua 1960s-80s picture-story book illustration: fine black pen-and-ink hatching, realistic drawing, printed on slightly yellowed cheap paper, a small caption box at the bottom",
+  "prompt": "Style: Chinese lianhuanhua 1960s-80s picture-story book illustration: fine black pen-and-ink hatching, realistic drawing, printed on slightly yellowed cheap paper, a small caption box at the bottom.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 12,
+  "group": "中国传统",
+  "name": "青花瓷纹",
+  "style": "blue-and-white Chinese porcelain painting: the whole scene painted in cobalt blue on glossy white porcelain, curved plate surface, traditional scroll and wave borders, glaze sheen",
+  "prompt": "Style: blue-and-white Chinese porcelain painting: the whole scene painted in cobalt blue on glossy white porcelain, curved plate surface, traditional scroll and wave borders, glaze sheen.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 13,
+  "group": "中国传统",
+  "name": "苏绣刺绣",
+  "style": "Suzhou silk embroidery: the scene stitched in fine lustrous silk threads, visible stitch direction and thread sheen, subtle color gradients, set in a round embroidery hoop on silk fabric",
+  "prompt": "Style: Suzhou silk embroidery: the scene stitched in fine lustrous silk threads, visible stitch direction and thread sheen, subtle color gradients, set in a round embroidery hoop on silk fabric.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 14,
+  "group": "中国传统",
+  "name": "篆刻印章",
+  "style": "Chinese seal-carving (zhuanke) art: the scene simplified into a square red seal impression, carved stone-seal lines, red cinnabar ink on white xuan paper, rough chiseled edges",
+  "prompt": "Style: Chinese seal-carving (zhuanke) art: the scene simplified into a square red seal impression, carved stone-seal lines, red cinnabar ink on white xuan paper, rough chiseled edges.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 15,
+  "group": "中国传统",
+  "name": "国潮插画",
+  "style": "modern Chinese guochao trendy illustration: bold flat graphic shapes, traditional cloud and wave patterns, vermilion, jade green and gold palette, clean vector finish with paper texture",
+  "prompt": "Style: modern Chinese guochao trendy illustration: bold flat graphic shapes, traditional cloud and wave patterns, vermilion, jade green and gold palette, clean vector finish with paper texture.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 16,
+  "group": "民国与近代",
+  "name": "民国月份牌",
+  "style": "1930s Republic of China yuefenpai calendar poster: soft airbrushed rubbed-charcoal-and-watercolor technique, rosy cheeks, pastel colors, decorative Art Deco border with a calendar strip, yellowed aged paper",
+  "prompt": "Style: 1930s Republic of China yuefenpai calendar poster: soft airbrushed rubbed-charcoal-and-watercolor technique, rosy cheeks, pastel colors, decorative Art Deco border with a calendar strip, yellowed aged paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 17,
+  "group": "民国与近代",
+  "name": "老上海广告画",
+  "style": "1930s old Shanghai commercial advertisement poster: hand-painted gouache, bold vintage Chinese lettering headline, Art Deco layout, warm faded reds and teals, printed paper wear",
+  "prompt": "Style: 1930s old Shanghai commercial advertisement poster: hand-painted gouache, bold vintage Chinese lettering headline, Art Deco layout, warm faded reds and teals, printed paper wear.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 18,
+  "group": "民国与近代",
+  "name": "手工上色老照片",
+  "style": "hand-tinted early 20th century black-and-white photograph: soft sepia base with delicate hand-applied watercolor tints on cheeks and fabrics, film grain, scratches, deckled photo border",
+  "prompt": "Style: hand-tinted early 20th century black-and-white photograph: soft sepia base with delicate hand-applied watercolor tints on cheeks and fabrics, film grain, scratches, deckled photo border.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 19,
+  "group": "民国与近代",
+  "name": "民国书籍装帧",
+  "style": "1930s Chinese book cover design: simple woodcut-like illustration, two-color print (ink black plus one accent), hand-drawn title calligraphy, aged cloth-paper texture",
+  "prompt": "Style: 1930s Chinese book cover design: simple woodcut-like illustration, two-color print (ink black plus one accent), hand-drawn title calligraphy, aged cloth-paper texture.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 20,
+  "group": "民国与近代",
+  "name": "丰子恺式漫画",
+  "style": "gentle Chinese manhua in the spirit of Feng Zikai: simple warm brush-ink lines, faceless or minimal-featured figures, light pale color washes, lots of white space, a short handwritten Chinese poem line",
+  "prompt": "Style: gentle Chinese manhua in the spirit of Feng Zikai: simple warm brush-ink lines, faceless or minimal-featured figures, light pale color washes, lots of white space, a short handwritten Chinese poem line.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 21,
+  "group": "民国与近代",
+  "name": "五六十年代宣传画",
+  "style": "1950s-60s Chinese poster art style: bright saturated flat colors, strong heroic lighting, smooth painted gouache rendering, optimistic mood, bold printed border",
+  "prompt": "Style: 1950s-60s Chinese poster art style: bright saturated flat colors, strong heroic lighting, smooth painted gouache rendering, optimistic mood, bold printed border.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 22,
+  "group": "民国与近代",
+  "name": "八十年代挂历",
+  "style": "1980s Chinese wall calendar photo-illustration: slightly soft-focus glamour, saturated warm colors, printed halftone look, month grid at the bottom, glossy paper",
+  "prompt": "Style: 1980s Chinese wall calendar photo-illustration: slightly soft-focus glamour, saturated warm colors, printed halftone look, month grid at the bottom, glossy paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 23,
+  "group": "民国与近代",
+  "name": "上美厂水墨动画",
+  "style": "Shanghai Animation Film Studio ink-wash animation still (like 'Where Is Mama'): animated frame in pure Chinese ink wash, soft wet edges, no outlines, pale background, cinematic 4:3 frame",
+  "prompt": "Style: Shanghai Animation Film Studio ink-wash animation still (like 'Where Is Mama'): animated frame in pure Chinese ink wash, soft wet edges, no outlines, pale background, cinematic 4:3 frame.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 24,
+  "group": "民国与近代",
+  "name": "上美厂剪纸动画",
+  "style": "Shanghai Animation Film Studio paper-cut animation still: layered colored paper-cut characters with visible cut edges and joints, flat stage-like background, warm folk colors",
+  "prompt": "Style: Shanghai Animation Film Studio paper-cut animation still: layered colored paper-cut characters with visible cut edges and joints, flat stage-like background, warm folk colors.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 25,
+  "group": "民国与近代",
+  "name": "港风电影海报",
+  "style": "1990s Hong Kong movie poster: hand-painted airbrush portrait, dramatic warm lighting, bold Chinese movie-title calligraphy with English subtitle, credits block at the bottom",
+  "prompt": "Style: 1990s Hong Kong movie poster: hand-painted airbrush portrait, dramatic warm lighting, bold Chinese movie-title calligraphy with English subtitle, credits block at the bottom.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 26,
+  "group": "民国与近代",
+  "name": "老香港招牌街景",
+  "style": "old Hong Kong street illustration: the window view shows dense neon and painted shop signs, tong lau buildings, retro 1970s palette, gouache and ink illustration",
+  "prompt": "Style: old Hong Kong street illustration: the window view shows dense neon and painted shop signs, tong lau buildings, retro 1970s palette, gouache and ink illustration.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 27,
+  "group": "手绘",
+  "name": "铅笔素描",
+  "style": "graphite pencil sketch on textured drawing paper: tonal shading with visible hatching, smudged soft areas, loose construction lines, monochrome grey",
+  "prompt": "Style: graphite pencil sketch on textured drawing paper: tonal shading with visible hatching, smudged soft areas, loose construction lines, monochrome grey.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 28,
+  "group": "手绘",
+  "name": "炭笔",
+  "style": "charcoal drawing on toned paper: deep rich blacks, dramatic smudged shadows, white chalk highlights, gestural expressive strokes",
+  "prompt": "Style: charcoal drawing on toned paper: deep rich blacks, dramatic smudged shadows, white chalk highlights, gestural expressive strokes.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 29,
+  "group": "手绘",
+  "name": "彩铅",
+  "style": "colored pencil illustration: soft layered colored pencil strokes with visible paper tooth, gentle pastel palette, hand-drawn warmth",
+  "prompt": "Style: colored pencil illustration: soft layered colored pencil strokes with visible paper tooth, gentle pastel palette, hand-drawn warmth.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 30,
+  "group": "手绘",
+  "name": "钢笔淡彩",
+  "style": "pen and ink with light watercolor wash: confident black ink linework, loose transparent watercolor washes spilling outside the lines, white paper showing through",
+  "prompt": "Style: pen and ink with light watercolor wash: confident black ink linework, loose transparent watercolor washes spilling outside the lines, white paper showing through.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 31,
+  "group": "手绘",
+  "name": "针管线稿",
+  "style": "fineliner technical pen drawing: clean uniform black lines, stippling and cross-hatching for shadows, detailed line art, no color",
+  "prompt": "Style: fineliner technical pen drawing: clean uniform black lines, stippling and cross-hatching for shadows, detailed line art, no color.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 32,
+  "group": "手绘",
+  "name": "圆珠笔",
+  "style": "blue ballpoint pen drawing on lined notebook paper: dense scribbled hatching, pressure variation, ink blobs, casual doodle energy",
+  "prompt": "Style: blue ballpoint pen drawing on lined notebook paper: dense scribbled hatching, pressure variation, ink blobs, casual doodle energy.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 33,
+  "group": "手绘",
+  "name": "马克笔",
+  "style": "alcohol marker illustration: bold translucent marker strokes with streaky overlaps, crisp outlines, design-sketch look, limited palette",
+  "prompt": "Style: alcohol marker illustration: bold translucent marker strokes with streaky overlaps, crisp outlines, design-sketch look, limited palette.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 34,
+  "group": "手绘",
+  "name": "蜡笔",
+  "style": "wax crayon drawing: waxy textured strokes, bright primary colors, paper texture showing through, charmingly rough",
+  "prompt": "Style: wax crayon drawing: waxy textured strokes, bright primary colors, paper texture showing through, charmingly rough.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 35,
+  "group": "手绘",
+  "name": "油画棒",
+  "style": "oil pastel drawing: thick creamy blended strokes, vivid saturated colors, scratched sgraffito details, textured heavy paper",
+  "prompt": "Style: oil pastel drawing: thick creamy blended strokes, vivid saturated colors, scratched sgraffito details, textured heavy paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 36,
+  "group": "手绘",
+  "name": "色粉",
+  "style": "soft pastel drawing on colored paper: powdery blended color, soft edges, velvety light, visible pastel dust texture",
+  "prompt": "Style: soft pastel drawing on colored paper: powdery blended color, soft edges, velvety light, visible pastel dust texture.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 37,
+  "group": "手绘",
+  "name": "城市速写",
+  "style": "urban sketching style: quick loose ink lines plus fast watercolor splashes, slightly wobbly perspective, handwritten date note in the corner, sketchbook page",
+  "prompt": "Style: urban sketching style: quick loose ink lines plus fast watercolor splashes, slightly wobbly perspective, handwritten date note in the corner, sketchbook page.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 38,
+  "group": "手绘",
+  "name": "手账涂鸦",
+  "style": "bullet-journal doodle style: cute simple black marker doodles, washi tape, small stickers and hand-lettered notes around the drawing on dotted grid paper",
+  "prompt": "Style: bullet-journal doodle style: cute simple black marker doodles, washi tape, small stickers and hand-lettered notes around the drawing on dotted grid paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 39,
+  "group": "手绘",
+  "name": "儿童画",
+  "style": "child's drawing made by a six-year-old: naive wobbly lines, crayon and marker, disproportionate figures, a sun in the corner, joyful imperfect coloring",
+  "prompt": "Style: child's drawing made by a six-year-old: naive wobbly lines, crayon and marker, disproportionate figures, a sun in the corner, joyful imperfect coloring.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 40,
+  "group": "手绘",
+  "name": "黑板粉笔画",
+  "style": "chalkboard chalk art: colorful chalk drawing on a dark green classroom blackboard, dusty smudged texture, hand-lettered chalk title",
+  "prompt": "Style: chalkboard chalk art: colorful chalk drawing on a dark green classroom blackboard, dusty smudged texture, hand-lettered chalk title.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 41,
+  "group": "绘画与艺术流派",
+  "name": "古典油画",
+  "style": "old master oil painting (17th century Dutch style): chiaroscuro window light like Vermeer, rich glazes, fine craquelure, dark warm background",
+  "prompt": "Style: old master oil painting (17th century Dutch style): chiaroscuro window light like Vermeer, rich glazes, fine craquelure, dark warm background.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 42,
+  "group": "绘画与艺术流派",
+  "name": "印象派",
+  "style": "French impressionist oil painting: visible broken brushstrokes, dappled sunlight, soft vibrant color, plein-air feel like Monet or Renoir",
+  "prompt": "Style: French impressionist oil painting: visible broken brushstrokes, dappled sunlight, soft vibrant color, plein-air feel like Monet or Renoir.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 43,
+  "group": "绘画与艺术流派",
+  "name": "梵高式厚涂",
+  "style": "post-impressionist impasto in the manner of Van Gogh: thick swirling directional brushstrokes, bold complementary blues and yellows, expressive energy",
+  "prompt": "Style: post-impressionist impasto in the manner of Van Gogh: thick swirling directional brushstrokes, bold complementary blues and yellows, expressive energy.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 44,
+  "group": "绘画与艺术流派",
+  "name": "点彩",
+  "style": "pointillism like Seurat: the whole image built from tiny dots of pure color, optical color mixing, calm luminous atmosphere",
+  "prompt": "Style: pointillism like Seurat: the whole image built from tiny dots of pure color, optical color mixing, calm luminous atmosphere.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 45,
+  "group": "绘画与艺术流派",
+  "name": "水彩",
+  "style": "transparent watercolor painting: soft wet-on-wet blooms, granulation, preserved white paper highlights, delicate luminous color",
+  "prompt": "Style: transparent watercolor painting: soft wet-on-wet blooms, granulation, preserved white paper highlights, delicate luminous color.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 46,
+  "group": "绘画与艺术流派",
+  "name": "水粉",
+  "style": "gouache painting: opaque matte flat color areas, clean painterly edges, mid-century illustration feel",
+  "prompt": "Style: gouache painting: opaque matte flat color areas, clean painterly edges, mid-century illustration feel.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 47,
+  "group": "绘画与艺术流派",
+  "name": "丙烯",
+  "style": "acrylic painting: bold opaque colors, confident visible brush marks, contemporary painterly finish on canvas",
+  "prompt": "Style: acrylic painting: bold opaque colors, confident visible brush marks, contemporary painterly finish on canvas.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 48,
+  "group": "绘画与艺术流派",
+  "name": "中世纪手抄本",
+  "style": "medieval illuminated manuscript page: flat gold leaf, ornate decorated initial letter, vine borders, tempera colors on vellum, gothic script text lines",
+  "prompt": "Style: medieval illuminated manuscript page: flat gold leaf, ornate decorated initial letter, vine borders, tempera colors on vellum, gothic script text lines.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 49,
+  "group": "绘画与艺术流派",
+  "name": "浮世绘",
+  "style": "Japanese ukiyo-e woodblock print: bold outlines, flat colors, Prussian blue and soft reds, patterned textiles, paper grain and slight registration offsets",
+  "prompt": "Style: Japanese ukiyo-e woodblock print: bold outlines, flat colors, Prussian blue and soft reds, patterned textiles, paper grain and slight registration offsets.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 50,
+  "group": "绘画与艺术流派",
+  "name": "新艺术慕夏",
+  "style": "Art Nouveau poster in the manner of Alphonse Mucha: flowing organic lines, decorative halo circle, floral ornaments, muted gold and sage palette",
+  "prompt": "Style: Art Nouveau poster in the manner of Alphonse Mucha: flowing organic lines, decorative halo circle, floral ornaments, muted gold and sage palette.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 51,
+  "group": "绘画与艺术流派",
+  "name": "装饰艺术",
+  "style": "Art Deco illustration: geometric streamlined forms, sunburst motifs, gold and black with jewel tones, elegant 1920s glamour",
+  "prompt": "Style: Art Deco illustration: geometric streamlined forms, sunburst motifs, gold and black with jewel tones, elegant 1920s glamour.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 52,
+  "group": "绘画与艺术流派",
+  "name": "立体派",
+  "style": "cubist painting: fragmented geometric planes, multiple viewpoints at once, muted browns and blues, Picasso and Braque inspired",
+  "prompt": "Style: cubist painting: fragmented geometric planes, multiple viewpoints at once, muted browns and blues, Picasso and Braque inspired.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 53,
+  "group": "绘画与艺术流派",
+  "name": "表现主义",
+  "style": "German expressionist painting: distorted forms, raw bold brushstrokes, intense unnatural colors, emotional tension",
+  "prompt": "Style: German expressionist painting: distorted forms, raw bold brushstrokes, intense unnatural colors, emotional tension.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 54,
+  "group": "绘画与艺术流派",
+  "name": "超现实主义",
+  "style": "surrealist painting like Magritte and Dalí: the window opens onto a dreamlike sky inside the room, impossible scale, smooth precise rendering",
+  "prompt": "Style: surrealist painting like Magritte and Dalí: the window opens onto a dreamlike sky inside the room, impossible scale, smooth precise rendering.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 55,
+  "group": "绘画与艺术流派",
+  "name": "波普艺术",
+  "style": "pop art like Roy Lichtenstein: Ben-Day dots, thick black outlines, primary colors, comic speech bubble",
+  "prompt": "Style: pop art like Roy Lichtenstein: Ben-Day dots, thick black outlines, primary colors, comic speech bubble.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 56,
+  "group": "绘画与艺术流派",
+  "name": "野兽派",
+  "style": "fauvism like Matisse: wild non-naturalistic flat colors, simplified shapes, bold decorative patterns",
+  "prompt": "Style: fauvism like Matisse: wild non-naturalistic flat colors, simplified shapes, bold decorative patterns.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 57,
+  "group": "绘画与艺术流派",
+  "name": "朴素艺术",
+  "style": "naive folk art like Henri Rousseau: flat perspective, meticulous leaves and plants, childlike sincerity, lush greens",
+  "prompt": "Style: naive folk art like Henri Rousseau: flat perspective, meticulous leaves and plants, childlike sincerity, lush greens.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 58,
+  "group": "绘画与艺术流派",
+  "name": "俄罗斯民间画",
+  "style": "Russian folk art (Palekh lacquer miniature / Khokhloma): black lacquer background, gold filigree, jewel-like tiny painted figures, red and gold ornaments",
+  "prompt": "Style: Russian folk art (Palekh lacquer miniature / Khokhloma): black lacquer background, gold filigree, jewel-like tiny painted figures, red and gold ornaments.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 59,
+  "group": "版画与印刷",
+  "name": "木刻版画",
+  "style": "black-and-white woodcut print: bold carved gouge marks, strong contrast, rough wood grain texture, hand-printed ink imperfections",
+  "prompt": "Style: black-and-white woodcut print: bold carved gouge marks, strong contrast, rough wood grain texture, hand-printed ink imperfections.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 60,
+  "group": "版画与印刷",
+  "name": "铜版蚀刻",
+  "style": "copperplate etching: fine cross-hatched engraved lines, sepia ink, plate tone and plate-mark border, antique book illustration",
+  "prompt": "Style: copperplate etching: fine cross-hatched engraved lines, sepia ink, plate tone and plate-mark border, antique book illustration.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 61,
+  "group": "版画与印刷",
+  "name": "丝网印刷",
+  "style": "screen print poster: 3-4 flat spot colors, slight misregistration, bold simplified shapes, halftone gradients",
+  "prompt": "Style: screen print poster: 3-4 flat spot colors, slight misregistration, bold simplified shapes, halftone gradients.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 62,
+  "group": "版画与印刷",
+  "name": "孔版 Risograph",
+  "style": "risograph print: fluorescent pink and teal spot inks, grainy texture, overprint color mixing, slight misregistration, zine aesthetic",
+  "prompt": "Style: risograph print: fluorescent pink and teal spot inks, grainy texture, overprint color mixing, slight misregistration, zine aesthetic.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 63,
+  "group": "版画与印刷",
+  "name": "复古旅行海报",
+  "style": "vintage 1930s travel poster: flat lithographic colors, simplified bold shapes, dramatic perspective, large title lettering at the top",
+  "prompt": "Style: vintage 1930s travel poster: flat lithographic colors, simplified bold shapes, dramatic perspective, large title lettering at the top.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 64,
+  "group": "版画与印刷",
+  "name": "半调网点",
+  "style": "halftone print style: the image made of enlarged CMYK halftone dots, newspaper-comic texture, limited palette",
+  "prompt": "Style: halftone print style: the image made of enlarged CMYK halftone dots, newspaper-comic texture, limited palette.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 65,
+  "group": "版画与印刷",
+  "name": "蓝晒",
+  "style": "cyanotype print: Prussian blue and white only, photogram look with plant silhouettes, uneven hand-brushed edges on watercolor paper",
+  "prompt": "Style: cyanotype print: Prussian blue and white only, photogram look with plant silhouettes, uneven hand-brushed edges on watercolor paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 66,
+  "group": "版画与印刷",
+  "name": "橡皮章",
+  "style": "hand-carved rubber stamp print: simple chunky stamped shapes, uneven ink coverage, two ink colors, charming handmade imperfections",
+  "prompt": "Style: hand-carved rubber stamp print: simple chunky stamped shapes, uneven ink coverage, two ink colors, charming handmade imperfections.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 67,
+  "group": "版画与印刷",
+  "name": "老教科书插图",
+  "style": "1950s children's textbook illustration: simple clear line drawing with two flat printed colors, slightly faded, educational and friendly, printed paper texture",
+  "prompt": "Style: 1950s children's textbook illustration: simple clear line drawing with two flat printed colors, slightly faded, educational and friendly, printed paper texture.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 68,
+  "group": "版画与印刷",
+  "name": "报纸漫画",
+  "style": "classic newspaper comic strip panel: clean ink lines, flat newsprint colors, dot shading, hand-lettered caption, slightly yellowed newsprint",
+  "prompt": "Style: classic newspaper comic strip panel: clean ink lines, flat newsprint colors, dot shading, hand-lettered caption, slightly yellowed newsprint.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 69,
+  "group": "卡通与动漫",
+  "name": "皮克斯 3D",
+  "style": "Pixar-style 3D animated film still: soft subsurface skin, large expressive eyes, warm global illumination, cinematic depth of field",
+  "prompt": "Style: Pixar-style 3D animated film still: soft subsurface skin, large expressive eyes, warm global illumination, cinematic depth of field.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 70,
+  "group": "卡通与动漫",
+  "name": "迪士尼经典 2D",
+  "style": "classic hand-drawn 2D Disney animation: clean ink-and-paint cels, painted watercolor background, fluid appealing character design",
+  "prompt": "Style: classic hand-drawn 2D Disney animation: clean ink-and-paint cels, painted watercolor background, fluid appealing character design.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 71,
+  "group": "卡通与动漫",
+  "name": "吉卜力感",
+  "style": "hand-painted Japanese anime film background style reminiscent of Studio Ghibli: lush painted greenery through the window, gentle clouds, warm nostalgic light, simple cel-shaded character",
+  "prompt": "Style: hand-painted Japanese anime film background style reminiscent of Studio Ghibli: lush painted greenery through the window, gentle clouds, warm nostalgic light, simple cel-shaded character.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 72,
+  "group": "卡通与动漫",
+  "name": "日式赛璐璐动漫",
+  "style": "modern Japanese TV anime cel shading: crisp outlines, two-tone hard shadows, bright clean colors, anime key visual",
+  "prompt": "Style: modern Japanese TV anime cel shading: crisp outlines, two-tone hard shadows, bright clean colors, anime key visual.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 73,
+  "group": "卡通与动漫",
+  "name": "日漫黑白网点",
+  "style": "black-and-white Japanese manga page panel: screentone shading, speed lines, ink hatching, hand-lettered sound effect",
+  "prompt": "Style: black-and-white Japanese manga page panel: screentone shading, speed lines, ink hatching, hand-lettered sound effect.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 74,
+  "group": "卡通与动漫",
+  "name": "美式卡通",
+  "style": "American TV cartoon style: thick uniform outlines, simple geometric character design, flat bright colors, exaggerated expressions",
+  "prompt": "Style: American TV cartoon style: thick uniform outlines, simple geometric character design, flat bright colors, exaggerated expressions.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 75,
+  "group": "卡通与动漫",
+  "name": "美漫",
+  "style": "American comic book art: bold inking, dramatic shadows, dynamic angle, vivid flat coloring, comic panel border",
+  "prompt": "Style: American comic book art: bold inking, dramatic shadows, dynamic angle, vivid flat coloring, comic panel border.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 76,
+  "group": "卡通与动漫",
+  "name": "丁丁清线漫画",
+  "style": "Franco-Belgian ligne claire comic style (the clear-line drawing tradition of Hergé): uniform clean outlines, flat colors without shading, detailed tidy background. Original characters only: the child is an ordinary seven-year-old with dark hair, NOT Tintin, no quiff, no Snowy, no existing comic character",
+  "prompt": "Style: Franco-Belgian ligne claire comic style (the clear-line drawing tradition of Hergé): uniform clean outlines, flat colors without shading, detailed tidy background. Original characters only: the child is an ordinary seven-year-old with dark hair, NOT Tintin, no quiff, no Snowy, no existing comic character.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 77,
+  "group": "卡通与动漫",
+  "name": "Q版",
+  "style": "chibi style: big head small body proportions, super-deformed cute characters, pastel colors, sparkles",
+  "prompt": "Style: chibi style: big head small body proportions, super-deformed cute characters, pastel colors, sparkles.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 78,
+  "group": "卡通与动漫",
+  "name": "绘本插画",
+  "style": "contemporary children's picture book illustration: soft textured gouache and colored pencil, cozy warm palette, whimsical details, gentle storytelling mood",
+  "prompt": "Style: contemporary children's picture book illustration: soft textured gouache and colored pencil, cozy warm palette, whimsical details, gentle storytelling mood.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 79,
+  "group": "卡通与动漫",
+  "name": "扁平矢量",
+  "style": "flat vector illustration: geometric shapes, no outlines, limited modern palette, subtle grain, clean editorial look",
+  "prompt": "Style: flat vector illustration: geometric shapes, no outlines, limited modern palette, subtle grain, clean editorial look.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 80,
+  "group": "卡通与动漫",
+  "name": "儿童教育卡通",
+  "style": "friendly educational cartoon for kids: rounded shapes, bright cheerful colors, clear simple forms, clean white background, easy to read",
+  "prompt": "Style: friendly educational cartoon for kids: rounded shapes, bright cheerful colors, clear simple forms, clean white background, easy to read.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 81,
+  "group": "卡通与动漫",
+  "name": "贴纸风",
+  "style": "die-cut sticker design: cute bold-outlined characters with a thick white sticker border and a soft drop shadow, glossy finish",
+  "prompt": "Style: die-cut sticker design: cute bold-outlined characters with a thick white sticker border and a soft drop shadow, glossy finish.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 82,
+  "group": "卡通与动漫",
+  "name": "像素 8-bit",
+  "style": "8-bit pixel art: chunky pixels, limited 16-color palette, retro NES game screen look",
+  "prompt": "Style: 8-bit pixel art: chunky pixels, limited 16-color palette, retro NES game screen look.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 83,
+  "group": "卡通与动漫",
+  "name": "90 年代像素游戏",
+  "style": "1990s 16-bit JRPG pixel art scene: detailed pixel tiles, soft dithered lighting, top-down three-quarter view, retro game UI box at the bottom",
+  "prompt": "Style: 1990s 16-bit JRPG pixel art scene: detailed pixel tiles, soft dithered lighting, top-down three-quarter view, retro game UI box at the bottom.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 84,
+  "group": "卡通与动漫",
+  "name": "涂色本线稿",
+  "style": "coloring book page: clean bold black outlines only, no shading, no fill, large closed areas ready for kids to color, white background",
+  "prompt": "Style: coloring book page: clean bold black outlines only, no shading, no fill, large closed areas ready for kids to color, white background.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 85,
+  "group": "3D 与手作材质",
+  "name": "黏土定格",
+  "style": "claymation stop-motion still: handmade plasticine figures with fingerprints and tool marks, miniature set, soft studio lighting",
+  "prompt": "Style: claymation stop-motion still: handmade plasticine figures with fingerprints and tool marks, miniature set, soft studio lighting.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 86,
+  "group": "3D 与手作材质",
+  "name": "羊毛毡",
+  "style": "needle-felted wool figures: fuzzy wool fiber texture, soft rounded forms, miniature handmade diorama, cozy lighting",
+  "prompt": "Style: needle-felted wool figures: fuzzy wool fiber texture, soft rounded forms, miniature handmade diorama, cozy lighting.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 87,
+  "group": "3D 与手作材质",
+  "name": "钩织玩偶",
+  "style": "crochet amigurumi dolls: visible yarn stitches, soft knitted texture, handmade toy diorama, warm muted colors",
+  "prompt": "Style: crochet amigurumi dolls: visible yarn stitches, soft knitted texture, handmade toy diorama, warm muted colors.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 88,
+  "group": "3D 与手作材质",
+  "name": "层叠纸雕",
+  "style": "layered paper-cut shadow-box art: the entire scene physically built from 8 to 12 stacked layers of cut colored cardstock inside a deep wooden shadow-box frame, each layer a flat paper silhouette with visible cut edges and paper thickness, soft shadows cast between the layers creating real depth, photographed straight on; no painted details, no gradients, everything is cut paper",
+  "prompt": "Style: layered paper-cut shadow-box art: the entire scene physically built from 8 to 12 stacked layers of cut colored cardstock inside a deep wooden shadow-box frame, each layer a flat paper silhouette with visible cut edges and paper thickness, soft shadows cast between the layers creating real depth, photographed straight on; no painted details, no gradients, everything is cut paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 89,
+  "group": "3D 与手作材质",
+  "name": "折纸",
+  "style": "origami diorama: everything folded from paper with sharp crease lines, paper texture, minimal clean backdrop",
+  "prompt": "Style: origami diorama: everything folded from paper with sharp crease lines, paper texture, minimal clean backdrop.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 90,
+  "group": "3D 与手作材质",
+  "name": "积木拼搭",
+  "style": "plastic toy brick build: the scene constructed from interlocking toy bricks and minifigure-style characters, glossy plastic, studs visible",
+  "prompt": "Style: plastic toy brick build: the scene constructed from interlocking toy bricks and minifigure-style characters, glossy plastic, studs visible.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 91,
+  "group": "3D 与手作材质",
+  "name": "木雕木偶",
+  "style": "carved wooden figures: visible wood grain and chisel marks, painted folk colors, warm handcrafted toy diorama",
+  "prompt": "Style: carved wooden figures: visible wood grain and chisel marks, painted folk colors, warm handcrafted toy diorama.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 92,
+  "group": "3D 与手作材质",
+  "name": "低多边形",
+  "style": "low-poly 3D render: faceted geometric polygons, flat shading, soft pastel lighting, minimal",
+  "prompt": "Style: low-poly 3D render: faceted geometric polygons, flat shading, soft pastel lighting, minimal.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 93,
+  "group": "3D 与手作材质",
+  "name": "等距微缩场景",
+  "style": "isometric 3D miniature room diorama: cut-away cube room viewed from 45 degrees, tiny detailed furniture, soft render, floating on a plain background",
+  "prompt": "Style: isometric 3D miniature room diorama: cut-away cube room viewed from 45 degrees, tiny detailed furniture, soft render, floating on a plain background.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 94,
+  "group": "3D 与手作材质",
+  "name": "移轴微缩摄影",
+  "style": "tilt-shift miniature photography: real scene photographed to look like a tiny model, strong selective blur top and bottom, saturated colors",
+  "prompt": "Style: tilt-shift miniature photography: real scene photographed to look like a tiny model, strong selective blur top and bottom, saturated colors.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 95,
+  "group": "3D 与手作材质",
+  "name": "盲盒潮玩",
+  "style": "designer vinyl blind-box toy: glossy smooth plastic figures, big head, simplified cute features, product shot on a pastel pedestal",
+  "prompt": "Style: designer vinyl blind-box toy: glossy smooth plastic figures, big head, simplified cute features, product shot on a pastel pedestal.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 96,
+  "group": "3D 与手作材质",
+  "name": "玻璃透明",
+  "style": "glass sculpture: the whole scene made of transparent colored glass, refractions, caustic light patterns, glossy highlights",
+  "prompt": "Style: glass sculpture: the whole scene made of transparent colored glass, refractions, caustic light patterns, glossy highlights.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 97,
+  "group": "3D 与手作材质",
+  "name": "刺绣贴布",
+  "style": "appliqué and embroidery textile art: fabric patches stitched together with visible running stitches and buttons, felt and cotton textures",
+  "prompt": "Style: appliqué and embroidery textile art: fabric patches stitched together with visible running stitches and buttons, felt and cotton textures.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 98,
+  "group": "摄影与影视",
+  "name": "35mm 胶片",
+  "style": "35mm film photograph: Kodak Portra colors, natural grain, soft window light, candid documentary moment",
+  "prompt": "Style: 35mm film photograph: Kodak Portra colors, natural grain, soft window light, candid documentary moment.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 99,
+  "group": "摄影与影视",
+  "name": "宝丽来",
+  "style": "Polaroid instant photo: washed-out warm colors, soft focus, light leak, white Polaroid frame border",
+  "prompt": "Style: Polaroid instant photo: washed-out warm colors, soft focus, light leak, white Polaroid frame border.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 100,
+  "group": "摄影与影视",
+  "name": "黑白纪实",
+  "style": "black-and-white documentary photography: high-contrast silver gelatin print, strong window light, deep grain, humanist street-photography feel",
+  "prompt": "Style: black-and-white documentary photography: high-contrast silver gelatin print, strong window light, deep grain, humanist street-photography feel.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 101,
+  "group": "摄影与影视",
+  "name": "电影剧照",
+  "style": "cinematic film still: anamorphic widescreen framing, teal and warm orange grading, shallow depth of field, atmospheric light rays",
+  "prompt": "Style: cinematic film still: anamorphic widescreen framing, teal and warm orange grading, shallow depth of field, atmospheric light rays.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 102,
+  "group": "摄影与影视",
+  "name": "九十年代港片霓虹",
+  "style": "1990s Hong Kong film cinematography: saturated green and red neon light spilling through the window, step-printed motion blur feel, moody grain",
+  "prompt": "Style: 1990s Hong Kong film cinematography: saturated green and red neon light spilling through the window, step-printed motion blur feel, moody grain.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 103,
+  "group": "摄影与影视",
+  "name": "对称粉彩电影感",
+  "style": "symmetrical pastel cinematography like Wes Anderson: perfectly centered composition, flat frontal view, pastel pink and mint palette, whimsical tidy set",
+  "prompt": "Style: symmetrical pastel cinematography like Wes Anderson: perfectly centered composition, flat frontal view, pastel pink and mint palette, whimsical tidy set.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 104,
+  "group": "摄影与影视",
+  "name": "赛博朋克",
+  "style": "cyberpunk: futuristic city with holographic ads outside the window, magenta and cyan neon glow, rain on glass, high-tech details in the room",
+  "prompt": "Style: cyberpunk: futuristic city with holographic ads outside the window, magenta and cyan neon glow, rain on glass, high-tech details in the room.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 105,
+  "group": "摄影与影视",
+  "name": "蒸汽波",
+  "style": "vaporwave aesthetic: pink and purple gradient sky, greek statue bust on the sill, retro 90s computer graphics, grid horizon, glitch",
+  "prompt": "Style: vaporwave aesthetic: pink and purple gradient sky, greek statue bust on the sill, retro 90s computer graphics, grid horizon, glitch.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 106,
+  "group": "摄影与影视",
+  "name": "自然纪录片",
+  "style": "nature documentary photography: telephoto shot, natural light, the cat as the wildlife subject in sharp focus, the child softly blurred, National Geographic feel",
+  "prompt": "Style: nature documentary photography: telephoto shot, natural light, the cat as the wildlife subject in sharp focus, the child softly blurred, National Geographic feel.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 107,
+  "group": "摄影与影视",
+  "name": "产品棚拍",
+  "style": "studio product photography: seamless colored backdrop, softbox lighting, crisp shadows, the scene staged like a premium catalog shot",
+  "prompt": "Style: studio product photography: seamless colored backdrop, softbox lighting, crisp shadows, the scene staged like a premium catalog shot.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 108,
+  "group": "设计与图解",
+  "name": "瑞士平面",
+  "style": "Swiss International Typographic Style poster: strict grid, Helvetica-like sans-serif headline, flat geometric shapes, red black and white",
+  "prompt": "Style: Swiss International Typographic Style poster: strict grid, Helvetica-like sans-serif headline, flat geometric shapes, red black and white.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 109,
+  "group": "设计与图解",
+  "name": "包豪斯",
+  "style": "Bauhaus design: primary colors, circles squares and triangles, the scene abstracted into bold geometric forms, modernist typography",
+  "prompt": "Style: Bauhaus design: primary colors, circles squares and triangles, the scene abstracted into bold geometric forms, modernist typography.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 110,
+  "group": "设计与图解",
+  "name": "孟菲斯",
+  "style": "Memphis design: playful squiggles, confetti patterns, pastel and bright clashing colors, bold black outlines, 1980s postmodern",
+  "prompt": "Style: Memphis design: playful squiggles, confetti patterns, pastel and bright clashing colors, bold black outlines, 1980s postmodern.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 111,
+  "group": "设计与图解",
+  "name": "蓝图工程图",
+  "style": "technical blueprint: white line drawing on blueprint blue, measurement annotations, orthographic views of the window seat, grid paper",
+  "prompt": "Style: technical blueprint: white line drawing on blueprint blue, measurement annotations, orthographic views of the window seat, grid paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 112,
+  "group": "设计与图解",
+  "name": "博物学插画",
+  "style": "vintage naturalist illustration plate: detailed scientific watercolor of the cat and plant with Latin name labels, numbered specimens, aged paper",
+  "prompt": "Style: vintage naturalist illustration plate: detailed scientific watercolor of the cat and plant with Latin name labels, numbered specimens, aged paper.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 113,
+  "group": "设计与图解",
+  "name": "科学解剖图",
+  "style": "educational cutaway diagram: labeled callouts explaining the scene (light, book, plant, cat), clean textbook illustration with leader lines",
+  "prompt": "Style: educational cutaway diagram: labeled callouts explaining the scene (light, book, plant, cat), clean textbook illustration with leader lines.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 114,
+  "group": "设计与图解",
+  "name": "信息图",
+  "style": "infographic layout: the scene as a central illustration with icons, short labels, a small chart about reading time, clean modern colors",
+  "prompt": "Style: infographic layout: the scene as a central illustration with icons, short labels, a small chart about reading time, clean modern colors.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 115,
+  "group": "设计与图解",
+  "name": "手绘地图",
+  "style": "hand-drawn illustrated map of the room: bird's-eye view, cute labeled landmarks (reading nook, cat bed, plant), dotted path, compass rose",
+  "prompt": "Style: hand-drawn illustrated map of the room: bird's-eye view, cute labeled landmarks (reading nook, cat bed, plant), dotted path, compass rose.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ },
+ {
+  "n": 116,
+  "group": "设计与图解",
+  "name": "图标集",
+  "style": "icon set: the scene broken into a 3x3 grid of consistent flat line icons (child, book, cat, plant, window, sun, cushion, cup, lamp), same stroke weight",
+  "prompt": "Style: icon set: the scene broken into a 3x3 grid of consistent flat line icons (child, book, cat, plant, window, sun, cushion, cup, lamp), same stroke weight.\n\nSubject: a seven-year-old child sitting on a cushioned window seat, reading an open picture book, a small cat curled up asleep beside the child, a potted plant on the windowsill, soft afternoon light coming through the window.\n\nRender the whole image faithfully in this one style, so the style is instantly recognizable. Vertical 3:4 composition. No subtitles, no captions, no watermark, no signature, no logo.\n"
+ }
+]

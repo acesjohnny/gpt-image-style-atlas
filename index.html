@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GPT Image 风格图鉴</title>
+<meta name="description" content="同一个画面，116 种画风：GPT Image 2 风格对照卡与可复用提示词。">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;700&display=swap">
+<style>
+:root{--bg:#EEF0F3;--surface:#fff;--sunk:#E4E7EC;--ink:#14161B;--muted:#5B616D;--line:#D6DAE1;--accent:#3445D6;--accent-ink:#fff;
+  --display:"Bricolage Grotesque","Noto Sans SC",system-ui,sans-serif;--body:"Noto Sans SC","PingFang SC",system-ui,sans-serif;--mono:"JetBrains Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root{--bg:#0E1014;--surface:#171A20;--sunk:#1E222A;--ink:#E8EAEE;--muted:#9BA2AE;--line:#2A2F39;--accent:#8C98FF;--accent-ink:#0E1014;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 var(--body)}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:20px}
+a{color:var(--accent)}
+header{padding-block:40px 18px}
+.eyebrow{font:500 12px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font:800 clamp(34px,6vw,56px)/1.02 var(--display);margin:10px 0 12px}
+.lede{max-width:64ch;color:var(--muted);margin:0}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.links a{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:7px 12px;text-decoration:none;color:var(--ink);font-size:13px}
+.bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding-block:10px}
+.bar .wrap{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input{flex:1 1 220px;min-width:0;font:inherit;padding:8px 12px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink)}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:4px 11px;font:inherit;font-size:13px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+main{padding-block:24px 60px}
+h2{font:800 22px/1.2 var(--display);margin:28px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:14px}
+.card{border:0;background:none;padding:0;text-align:left;color:inherit;font:inherit;cursor:zoom-in}
+.card img{width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:4px;background:var(--sunk);display:block}
+.card b{display:block;font-weight:500;font-size:13.5px;margin-top:6px}
+.card span{font:11px var(--mono);color:var(--muted)}
+dialog{border:0;padding:0;border-radius:10px;background:var(--surface);color:var(--ink);width:min(960px,calc(100vw - 24px));max-height:calc(100vh - 32px)}
+dialog::backdrop{background:rgba(8,10,14,.62)}
+.m{display:grid;grid-template-columns:minmax(0,400px) minmax(0,1fr);gap:20px;padding:18px;max-height:calc(100vh - 32px);overflow:auto}
+.m img{width:100%;border-radius:4px}
+.m h3{margin:0 0 4px;font-size:19px}
+pre{background:var(--sunk);border-radius:6px;padding:12px;font:12.5px/1.6 var(--mono);white-space:pre-wrap;overflow-wrap:anywhere;margin:10px 0}
+.btn{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:5px;padding:5px 10px;font:inherit;font-size:13px;cursor:pointer}
+footer{border-top:1px solid var(--line);padding-block:22px 40px;color:var(--muted);font-size:13px}
+@media (max-width:720px){.wrap{padding-inline:16px}.m{grid-template-columns:1fr}.grid{grid-template-columns:repeat(auto-fill,minmax(140px,1fr))}}
+</style>
+</head>
+<body>
+<header class="wrap">
+  <div class="eyebrow">GPT Image 2 · Style Atlas</div>
+  <h1>同一个画面，116 种画风</h1>
+  <p class="lede">七岁小孩在窗边读绘本，身边睡着一只小猫。工笔、民国月份牌、水彩、浮世绘、皮克斯、像素、羊毛毡、蓝图……每种风格各出一张，横着比就知道它到底长什么样。点图看完整提示词，复制「风格描述」换掉题材就能套用。</p>
+  <div class="links">
+    <a href="https://github.com/acesjohnny/gpt-image-style-atlas">GitHub 仓库</a>
+    <a href="docs/techniques.md">17 个出图脑洞技巧</a>
+    <a href="https://github.com/acesjohnny/keyframe-video-skill">keyframe-video-skill · 关键帧 AI 视频</a>
+  </div>
+</header>
+<div class="bar"><div class="wrap" id="bar">
+  <input id="q" type="search" placeholder="搜风格，如 水墨、film、pixel" aria-label="搜索风格">
+</div></div>
+<main class="wrap" id="main"></main>
+<footer class="wrap">风格卡由 acesjohnny 用 GPT Image（Codex）生成，图片与文字以 CC BY 4.0 授权，代码以 MIT 授权。部分风格名称借用艺术家或工作室作为风格参照，与其无关联。</footer>
+<dialog id="dlg"></dialog>
+<script>
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pad = n => String(n).padStart(3, '0');
+let S = [], group = '', q = '';
+function render() {
+  const groups = [...new Set(S.map(s => s.group))];
+  const k = q.trim().toLowerCase();
+  document.getElementById('main').innerHTML = groups.filter(g => !group || g === group).map(g => {
+    const list = S.filter(s => s.group === g && (!k || (s.name + ' ' + s.style).toLowerCase().includes(k)));
+    if (!list.length) return '';
+    return `<h2>${esc(g)} <span style="font:12px var(--mono);color:var(--muted)">${list.length}</span></h2><div class="grid">` +
+      list.map(s => `<button class="card" data-n="${s.n}"><img loading="lazy" src="styles/images/${pad(s.n)}.webp" alt="${esc(s.name)}"><b>${esc(s.name)}</b><span>#${pad(s.n)}</span></button>`).join('') + '</div>';
+  }).join('') || '<p>没有匹配的风格。</p>';
+}
+function open(n) {
+  const s = S.find(x => x.n === n), d = document.getElementById('dlg');
+  d.innerHTML = `<div class="m"><img src="styles/images/${pad(n)}.webp" alt="${esc(s.name)}"><div>
+    <div style="display:flex;justify-content:space-between;gap:10px"><h3>${pad(n)} ${esc(s.name)}</h3><button class="btn" data-close>关闭</button></div>
+    <div style="color:var(--muted);font-size:13px">${esc(s.group)}</div>
+    <p style="margin:12px 0 4px;font-size:13px">风格描述（换题材时复制这一段）</p><pre id="sty">${esc(s.style)}</pre>
+    <button class="btn" data-copy="sty">复制风格描述</button>
+    <p style="margin:14px 0 4px;font-size:13px">完整提示词</p><pre id="full">${esc(s.prompt)}</pre>
+    <button class="btn" data-copy="full">复制完整提示词</button></div></div>`;
+  d.showModal();
+}
+document.addEventListener('click', e => {
+  const c = e.target.closest('.card'); if (c) return open(+c.dataset.n);
+  const g = e.target.closest('[data-g]');
+  if (g) { group = g.dataset.g; document.querySelectorAll('[data-g]').forEach(b => b.setAttribute('aria-pressed', b === g)); return render(); }
+  const cp = e.target.closest('[data-copy]');
+  if (cp) { const t = document.getElementById(cp.dataset.copy).textContent;
+    navigator.clipboard?.writeText(t).then(() => { cp.textContent = '已复制'; }, () => {}); return; }
+  if (e.target.closest('[data-close]') || e.target.id === 'dlg') document.getElementById('dlg').close();
+});
+document.getElementById('q').addEventListener('input', e => { q = e.target.value; render(); });
+fetch('styles/styles.json').then(r => r.json()).then(data => {
+  S = data;
+  const bar = document.getElementById('bar');
+  bar.insertAdjacentHTML('beforeend', `<button class="chip" data-g="" aria-pressed="true">全部 ${S.length}</button>` +
+    [...new Set(S.map(s => s.group))].map(g => `<button class="chip" data-g="${esc(g)}" aria-pressed="false">${esc(g)}</button>`).join(''));
+  render();
+});
+</script>
+</body>
+</html>
